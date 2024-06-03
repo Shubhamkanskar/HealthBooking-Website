@@ -4,9 +4,8 @@ import "../styles/register.css";
 import axios from "axios";
 import toast from "react-hot-toast";
 
-axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
-
 function Register() {
+  axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
   const [file, setFile] = useState("");
   const [loading, setLoading] = useState(false);
   const [formDetails, setFormDetails] = useState({

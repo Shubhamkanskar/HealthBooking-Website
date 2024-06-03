@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/heroimg.jpg";
+import image from "../images/image4.png";
 import "../styles/hero.css";
 
 const Hero = () => {
@@ -17,10 +17,7 @@ const Hero = () => {
         </p>
       </div>
       <div className="hero-img">
-        <img
-          src={image}
-          alt="hero"
-        />
+        <img src={image} alt="hero" />
       </div>
     </section>
   );

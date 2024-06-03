@@ -1,6 +1,11 @@
 import React from "react";
 import "../styles/footer.css";
-import { FaFacebookF, FaYoutube, FaInstagram } from "react-icons/fa";
+import {
+  FaFacebookF,
+  FaYoutube,
+  FaInstagram,
+  FaLinkedin,
+} from "react-icons/fa";
 import { HashLink } from "react-router-hash-link";
 import { NavLink } from "react-router-dom";
 
@@ -66,15 +71,24 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          Made by{" "}
-          <a
-            href="https://www.linkedin.com/in/shubham-kanaskar-237280157/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Shubham Kanaskar
-          </a>{" "}
-          © {new Date().getFullYear()}
+          <div>
+            {" "}
+            Made by
+            <a
+              href="https://www.linkedin.com/in/shubham-kanaskar-237280157/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Shubham Kanaskar
+            </a>
+            © {new Date().getFullYear()}
+          </div>
+          <div style={{ display: "flex", gap: "1rem" }}>
+            Reach out Click me on LinkedIn
+            <a href="https://www.linkedin.com/in/shubham-kanaskar-237280157/">
+              <FaLinkedin className="linkedin_classname" />
+            </a>
+          </div>
         </div>
       </footer>
     </>

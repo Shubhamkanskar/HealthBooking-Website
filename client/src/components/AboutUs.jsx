@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/aboutimg.jpg";
+import image from "../images/Doctor2.png";
 
 const AboutUs = () => {
   return (
@@ -8,10 +8,7 @@ const AboutUs = () => {
         <h2 className="page-heading about-heading">About Us</h2>
         <div className="about">
           <div className="hero-img">
-            <img
-              src={image}
-              alt="hero"
-            />
+            <img src={image} alt="hero" />
           </div>
           <div className="hero-content">
             <p>
