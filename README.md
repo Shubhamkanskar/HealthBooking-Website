@@ -12,7 +12,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ### 🌐 Link:
 
-<h4> Live Site: health-booking-website-mt2tta02g-shubhamkanskars-projects.vercel.app </h4>
+<h4> Live Site: [health-booking-website-mt2tta02g-shubhamkanskars-projects.vercel.app](https://health-booking-website.vercel.app/) </h4>
 
 <br>
 
@@ -33,16 +33,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 <br>
 
-### 👋 Connect with me:
 
-<div align=center>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)]([[https://www.linkedin.com/in/dunna-avinash](https://www.linkedin.com/in/shubham-kanaskar-237280157/)](https://www.linkedin.com/in/shubham-kanaskar-237280157/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Avinash905](https://github.com/Shubhamkanskar))
-<a href="mailto:shubhamkanaskar75@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
-
-</div>
 
 <br>
 
