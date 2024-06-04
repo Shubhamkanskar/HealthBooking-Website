@@ -1,19 +1,7 @@
 <div id="top">
 <h1 align="center">HealthBooker 🧑‍⚕️</h1>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/github/repo-size/shubham/HealthBooker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/Shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr/Shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/Shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/Shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/shubham/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/Avinash905/HealthBooker?style=for-the-badge" />
-  </div>
-  <br>
+
 
 <h3>📝 Description :</h3> 
 Welcome to our comprehensive healthcare platform! Our website offers a seamless experience for users and doctors alike. Sign up or log in to unlock a range of features. Easily browse through a list of available doctors, manage your profile, and submit queries effortlessly. Stay updated with notifications and enjoy secure access to your information. Aspiring doctors can apply through our user-friendly system. Book appointments with your preferred doctors and track their completion status. Admin features ensure smooth operations, including approval of doctor applications and user management. Rest assured, all data is stored securely. Join us to experience a new era of convenient and efficient healthcare interactions.
@@ -24,7 +12,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ### 🌐 Link:
 
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
+<h4> Live Site: health-booking-website-mt2tta02g-shubhamkanskars-projects.vercel.app </h4>
 
 <br>
 
@@ -49,9 +37,9 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 <div align=center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
-<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)]([[https://www.linkedin.com/in/dunna-avinash](https://www.linkedin.com/in/shubham-kanaskar-237280157/)](https://www.linkedin.com/in/shubham-kanaskar-237280157/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Avinash905](https://github.com/Shubhamkanskar))
+<a href="mailto:shubhamkanaskar75@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
 
 </div>
@@ -129,52 +117,55 @@ npm start
 <p align="right"><a href="#top">Back to Top</a></p>
 
 ### Home page
+![Home](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/76bea223-f64e-4a98-8b5b-c1f7bd48ecff)
 
-<img src="./client/src/images/full_pic.png" alt='home'/>
+
 
 ### Sign up page
+![Sign Up page](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/499dd2fa-41e5-4398-99fa-07fed781017a)
 
-<img src="./client/src/images/signup.png" alt='signup'/>
+
 
 ### Sign in page
+![SignInPage](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/3b7a9fc4-67a9-4ac7-bc49-4da95c45a5f9)
 
-<img src="./client/src/images/signin.png" alt='signin'/>
+
+
 
 ### Profile page
 
-<img src="./client/src/images/profile.png" alt='profile'/>
 
 ### All Doctors page
 
-<img src="./client/src/images/doctors.png" alt='doctors'/>
+
 
 ### Apply for doctor page
 
 <img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
 
-### Admin all users dashboard
 
-<img src="./client/src/images/users.png" alt='users'/>
 
-### Admin all applications page
 
-<img src="./client/src/images/applications.png" alt='applications'/>
 
 ### Book Appointment page
 
-<img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
+![AppointmentPage](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/ecd18dac-2370-4fc8-bbeb-1a3f8ec0431c)
+
 
 ### Users all appointments page
+![AppointmentPage](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/646e6236-dd41-4cc0-9f45-922aeb86e676)
 
-<img src="./client/src/images/userappointments.png" alt='appointments'/>
+
 
 ### Doctors all appointments page
+![Doctorpage](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/d176f954-d6bc-4d67-a8f5-9b140bc2fed1)
 
-<img src="./client/src/images/doctorappointments.png" alt='appointments'/>
+
 
 ### Notifications page
 
-<img src="./client/src/images/notifications.png" alt='notifications'/>
+![NotificationPage](https://github.com/Shubhamkanskar/HealthBooking-Website/assets/142893960/bf75fd47-e10e-4da6-b513-2e3f5b1d28db)
+
 
 ---
 
